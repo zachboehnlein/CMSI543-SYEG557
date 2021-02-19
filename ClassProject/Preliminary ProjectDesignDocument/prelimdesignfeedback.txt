@@ -1,0 +1,26 @@
+
+Keshan Arumugam, Zach Boehnlein, and Nils Heidenreich
+Car Dealer Sales Database
+Preliminary Design Document Feedback
+====================================
+
+This is a very good start to your documentation.  I like the way you have
+broken the project up and have presented the design for the first "phase"
+of the project ~ very Agile thinking!
+
+If this were intended to be a waterfall project, you would need a TON more
+"requirements" in your functional section.  However, since that part is for
+you to get a little experience with writing "shall" statements, what you
+have is fine.  When you get to the detailed version, you'll be writing your
+"requirements" as user stories anyhow.
+
+Your ERD looks fine for this kind of database.  You have all the parts there
+and I can see the associations quite easily.  Nice work!
+
+REALLY nice work!
+
+Preliminary Project Proposal/Design:  100%  A-plus
+
+   Consists of 5% for requirements/description
+               5% for sprint planning
+       total: 10% for this deliverable
